@@ -1,0 +1,19 @@
+git init
+
+git add .
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin "https://github.com/Deepakkumar95/ImageScrapper.git"
+
+git clone https://github.com/Deepakkumar95/ImageScrapper.git
+
+git config --global user.name "Deepak Kumar"
+git config --global user.email "deepakkr9098@gmail.com"
+
+git remote remove origin
+
+conda create -n image_scr
+conda create
