@@ -16,4 +16,4 @@ git config --global user.email "deepakkr9098@gmail.com"
 git remote remove origin
 
 conda create -n image_scr
-conda create
+conda activate image_scr
