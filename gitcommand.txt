@@ -17,3 +17,5 @@ git remote remove origin
 
 conda create -n image_scr python==3.7
 conda activate image_scr
+
+python --version
